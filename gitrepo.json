@@ -1,0 +1,49 @@
+[
+ {
+"product_id" : 101,
+"product_name" : "smart phone",
+"transaction_id" : 143,
+"transaction_name" : "UPI",
+"store_id" : 151,
+"store_city" : "delhi"
+
+ },
+  {
+"product_id" : 204,
+"product_name" : "smart watch",
+"transaction_id" : 354,
+"transaction_name" : "Cash",
+"store_id" : 155,
+"store_city" : "kolkata"
+
+ },
+  {
+"product_id" : 309,
+"product_name" : "pot",
+"transaction_id" : 625,
+"transaction_name" : "Cheque",
+"store_id" : 175,
+"store_city" : "mumbai"
+
+ },
+ {
+"product_id" : 107,
+"product_name" : "door",
+"transaction_id" : 786,
+"transaction_name" : "Net Banking",
+"store_id" : 203,
+"store_city" : "bangalore"
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+]
